@@ -1,0 +1,5 @@
+path,pathmsk
+id001-128x128x64.nii.gz,id001-128x128x64-msk.nii.gz
+id002-128x128x64.nii.gz,id002-128x128x64-msk.nii.gz
+id003-128x128x64.nii.gz,id003-128x128x64-msk.nii.gz
+id004-128x128x64.nii.gz,id004-128x128x64-msk.nii.gz
