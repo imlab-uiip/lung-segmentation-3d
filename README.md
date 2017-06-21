@@ -11,3 +11,6 @@ To use this implementation one needs to load and preprocess data (see `load_data
 
 `trained_model.hdf5` and `trained_model_wc.hdf5` contain models trained on private data set without and with coordinates channels.
 
+## Segmentation
+![](https://github.com/imlab-uiip/lung-segmentation-3d/blob/master/Demo/Predictions/id003-128x128x64.nii.gz-preview.png)
+![](https://github.com/imlab-uiip/lung-segmentation-3d/blob/master/Demo/Predictions/id002-128x128x64.nii.gz-preview.png)
